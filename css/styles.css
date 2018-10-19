@@ -1,0 +1,21 @@
+.cat-gallery {
+    height: 120px;
+    box-shadow: 6px 6px black;
+}
+
+img {
+    box-shadow: 5px 5px orange;
+}
+
+#special-pic {
+    box-shadow: 4px 4px orange;
+}
+
+
+h2{
+    padding-left: 25px;
+}
+
+html {
+    font-family: helvetica;
+}
